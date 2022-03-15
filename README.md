@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdivax&show_icons=true&theme=radical)
 
 ## MY Language skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdivax&layout=compact)
 
-Here are some ideas to get you started:
+## About Me:
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Machine Learning
