@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjpNWYDr04ATu6rH5dU442w)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjpNWYDr04ATu6rH5dU442w)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/divax-shah/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/divax-shah/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dj_shah_6045/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dj_shah_6045/)
