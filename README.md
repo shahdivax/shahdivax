@@ -26,6 +26,7 @@
 ## Languages and Tools:
 
 #### Tools
+<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/firefox-browser.svg" />
