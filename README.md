@@ -7,7 +7,7 @@
 - 📫 How to reach me: divax12345@gmail.com
 - ⚡ Fun fact: I like to play foolball and I am a pretty good artist
 
-## My Github stats
+## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdivax&show_icons=true&theme=radical)
 
 ## MY Language skills
