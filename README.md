@@ -35,10 +35,11 @@ Here are some ideas to get you started:
 <br/>
 
 #### Language
-<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-program.svg" />
-<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-plus-plus-programming-language.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/python-programming-language.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/java-programming-language.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-plus-plus-programming-language.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-program.svg" />
+
 
 <br/>
 <br/>
