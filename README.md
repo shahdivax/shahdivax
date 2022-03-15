@@ -25,7 +25,7 @@
 
 ## Languages and Tools:
 
-#### Language
+### Language
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/python-programming-language.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/java-programming-language.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-plus-plus-programming-language.svg" />
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-#### Tools
+### Tools
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/pycharm.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.svg" />
