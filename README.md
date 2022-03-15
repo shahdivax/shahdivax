@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: divax12345@gmail.com
 - ⚡ Fun fact: I like to play foolball and I am a pretty good artist
 
-<br/>
+
 ## Connect with me:
 [<img align="left" alt="Divax | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/shahdivax)
 [<img align="left" alt="Divax | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-app.svg" />](https://www.linkedin.com/in/divax-shah/)
 [<img align="left" alt="Divax | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ig-instagram.svg" />](https://www.instagram.com/dj_shah_6045/)
+
 <br />
 
 ## Languages and Tools:
