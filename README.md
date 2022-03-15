@@ -4,60 +4,49 @@
 ## MY Language skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdivax&layout=compact)
 
-<!--# UPDATES
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=divaxshah)-->
-
-<!--
-**shahdivax/shahdivax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about AI or AR/VR
+- 📫 How to reach me: divax12345@gmail.com
+- ⚡ Fun fact: I like to play foolball and I am a pretty good artist
+
+<br/>
 ## Connect with me:
-
-[<img align="left" alt="Mukul | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Mu-C00L)
-[<img align="left" alt="Mukul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/mukul.mohmare.1/)
-[<img align="left" alt="Mukul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukul-mohmare/)
-[<img align="left" alt="Mukul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_mu_cool/)
-
+[<img align="left" alt="Divax | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/shahdivax)
+[<img align="left" alt="Divax | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-app.svg" />](https://www.linkedin.com/in/divax-shah/)
+[<img align="left" alt="Divax | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ig-instagram.svg" />](https://www.instagram.com/dj_shah_6045/)
 <br />
 
 ## Languages and Tools:
 
-### Tools
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
+#### Tools
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/firefox-browser.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/google.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-color.svg" />
 
 <br/>
 <br/>
 
-### Language
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+#### Language
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-program.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/c-plus-plus-programming-language.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/python-programming-language.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/java-programming-language.svg" />
 
 <br/>
 <br/>
 
-### Development
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/firebase.svg" />
+## Development
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.svg" />
 <img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mysql.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/07-web-app-development/sql-code.svg" />
+<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/pycharm.svg" />
 
 
 
