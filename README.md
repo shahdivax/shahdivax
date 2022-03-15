@@ -1,16 +1,19 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdivax&show_icons=true&theme=radical)
-
-## MY Language skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdivax&layout=compact)
-
-## About Me:
+## Somethings About Me:
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about AI or AR/VR
 - 📫 How to reach me: divax12345@gmail.com
 - ⚡ Fun fact: I like to play foolball and I am a pretty good artist
+
+## My Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdivax&show_icons=true&theme=radical)
+
+## MY Language skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdivax&layout=compact)
+
+
 
 
 ## Connect with me:
