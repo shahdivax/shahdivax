@@ -18,8 +18,8 @@
 
 ## Connect with me:
 [<img align="left" alt="Divax | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/shahdivax)
-[<img align="left" alt="Divax | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-app.svg" />](https://www.linkedin.com/in/divax-shah/)
-[<img align="left" alt="Divax | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ig-instagram.svg" />](https://www.instagram.com/dj_shah_6045/)
+[<img align="left" alt="Divax | LinkedIn" width="22px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/divax-shah/)
+[<img align="left" alt="Divax | Instagram" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />](https://www.instagram.com/dj_shah_6045/)
 
 <br />
 
