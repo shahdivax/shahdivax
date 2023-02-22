@@ -33,7 +33,7 @@
 ## Development
 <img align="left" height="102px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
 <img align="left" height="102px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" />
-<img align="left" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+<img align="left" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 
 <br/>
 <br/>
