@@ -17,26 +17,23 @@
 
 
 ## Connect with me:
-[<img align="left" alt="Divax | LinkedIn" height = "52px" width="32px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/divax-shah/)
-[<img align="left" alt="Divax | Instagram" height = "52px" width="32px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />](https://www.instagram.com/dj_shah_6045/)
+[<img align="left" alt="Divax | LinkedIn" height = "52px" width="52px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/divax-shah/)
+[<img align="left" alt="Divax | Instagram" height = "52px" width="52px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />](https://www.instagram.com/dj_shah_6045/)
 
 <br/>
 <br/>
 
 ## Languages:
-<img align="left" height="72px" width="62px" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
-<img align="left" height="72px" width="62px" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
+<img align="left" height="72px" width="102px" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
+<img align="left" height="72px" width="102px" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
 
 <br/>
 <br/>
 
 ## Development
-<img align="left" height="102px" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
-<img align="left" height="102px" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" />
-<img align="left" height="52px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
-
-
-
+<img align="left" height="102px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
+<img align="left" height="102px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" />
+<img align="left" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
 
 <br/>
 <br/>
