@@ -17,16 +17,16 @@
 
 
 ## Connect with me:
-[<img align="left" alt="Divax | LinkedIn" width="52px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/divax-shah/)
-[<img align="left" alt="Divax | Instagram" width="52px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />](https://www.instagram.com/dj_shah_6045/)
+[<img align="left" alt="Divax | LinkedIn" height = "52px" width="32px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/divax-shah/)
+[<img align="left" alt="Divax | Instagram" height = "52px" width="32px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />](https://www.instagram.com/dj_shah_6045/)
 
 <br />
 
 ## Languages and Tools:
 
 ### Language
-<img align="left" height="52" width="72" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
-<img align="left" height="52" width="72" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
+<img align="left" height="52" width="62" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
+<img align="left" height="52" width="62" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
 
 <br/>
 <br/>
