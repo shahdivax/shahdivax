@@ -24,16 +24,16 @@
 <br/>
 
 ## Languages:
-<img align="left" height="72" width="62" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
-<img align="left" height="72" width="62" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
+<img align="left" height="72px" width="62px" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
+<img align="left" height="72px" width="62px" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
 
 <br/>
 <br/>
 
 ## Development
-<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
-<img align="left" height="32" width="32" src="https://commons.wikimedia.org/wiki/File:Android_Studio_Trademark.svg" />
-<img align="left" height="32" width="32" src="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" />
+<img align="left" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
+<img align="left" height="32px" width="32px" src="https://commons.wikimedia.org/wiki/File:Android_Studio_Trademark.svg" />
+<img align="left" height="32px" width="32px" src="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" />
 
 
 
