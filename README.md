@@ -19,11 +19,6 @@
 ## Connect with me:
 [<img align="left" alt="Divax | LinkedIn" height = "52px" width="52px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/divax-shah/)
 [<img align="left" alt="Divax | Instagram" height = "52px" width="52px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />](https://www.instagram.com/dj_shah_6045/)
-<a href="https://twitter.com/ikunjshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikunjshah" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kunj_shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunj_shah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ikunjshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ikunjshah" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ikunjshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ikunjshah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ikunjshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikunjshah" height="30" width="40" /></a>
 
 <br/>
 <br/>
