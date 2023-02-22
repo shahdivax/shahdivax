@@ -33,8 +33,8 @@
 ## Development:
 <img align="left" height="102px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
 <img align="left" height="102px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" />
-<img align="left" height="72px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+<img align="left" height="52px" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 
 <br/>
 <br/>
-![<br/>](https://komarev.com/ghpvc/?username=shahdivax)
+![](https://komarev.com/ghpvc/?username=shahdivax)
