@@ -23,9 +23,7 @@
 <br/>
 <br/>
 
-## Languages and Tools:
-
-### Language
+## Languages:
 <img align="left" height="72" width="62" src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" />
 <img align="left" height="72" width="62" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" />
 
@@ -33,9 +31,9 @@
 <br/>
 
 ## Development
-<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.svg" />
-<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" />
-<img align="left" height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/07-web-app-development/sql-code.svg" />
+<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" />
+<img align="left" height="32" width="32" src="https://commons.wikimedia.org/wiki/File:Android_Studio_Trademark.svg" />
+<img align="left" height="32" width="32" src="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" />
 
 
 
