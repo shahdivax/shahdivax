@@ -15,10 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahdivax&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=divax_shah_)](https://twitter.com/@divax_shah_)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shahdivax&icon=6&color=8)](https://github.com/shahdivax)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
