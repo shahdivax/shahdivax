@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my Machine Learning and Deep Learning skills<br>👯 I’m looking to collaborate on Machine Learning projects<br>🌱 I’m currently learning Deep Learning Algos.<br>💬 Ask me about Artificial Intelligence <br>⚡ Fun fact : I like to play football and I am a pretty good artist 😉<br> 🔗My portfolio website : [divaxshah.com](https://avatars.divaxshah.com/)
+🔭 I'm currently working on my Machine Learning and Deep Learning skills<br>👯 I’m looking to collaborate on Machine Learning projects<br>🌱 I’m currently learning Deep Learning Algos.<br>💬 Ask me about Artificial Intelligence <br>⚡ Fun fact : I like to play football and I am a pretty good artist 😉<br> 🔗My portfolio website : [divaxshah.com](https://divaxshah.com/)
 
 
 ## 🌐 Socials:
